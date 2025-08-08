@@ -20,11 +20,8 @@ I'm currently focusing on:
 
 ## 🚀 Projects
 
-### 🔹 [ZapChat - Real Time Chat App](#)
+### 🔹 [Campus Connect - Real Time Chat App](#)
 > A dynamic chat platform built using **Socket.IO, Node.js, Express.js**. Supports instant messaging, real-time notifications, and responsive UI.
-
-### 🔹 [EduResume - Resume Builder](#)
-> A student-friendly resume builder with **live preview**, **PDF download**, and **AI content suggestions**. Built with frontend and backend integration.
 
 ### 🔹 [Foodora - Restaurant Website](#)
 > A clean and responsive restaurant website with menu, table reservation, and contact form built using **HTML, CSS, JavaScript**.
