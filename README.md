@@ -37,7 +37,7 @@ I'm currently focusing on:
 `HTML` `CSS` `Tailwind CSS` `JavaScript` `React.js`
 
 **Backend & DB:**  
-`Node.js` `Express.js` `MySQL`
+ `MySQL`
 
 **Tools & Platforms:**  
 `Git` `GitHub` `VS Code`
