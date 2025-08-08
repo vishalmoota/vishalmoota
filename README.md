@@ -1,3 +1,8 @@
+<!-- Top Wavy SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishalMoota/VishalMoota/main/wave-top.svg" alt="wave top" width="100%" />
+</p>
+
 <!-- Animated Header -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#6C63FF">Vishal Moota</span></h1>
 <h3 align="center">💻 A passionate Computer Engineering student & Full Stack Developer</h3>
@@ -11,7 +16,7 @@
   <a href="https://github.com/VishalMoota"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vishal-moota/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vishalmoota2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=VishalMoota&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="VishalMoota" />
+  <img src="https://komarev.com/ghpvc/?username=VishalMoota&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -44,9 +49,9 @@
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalMoota&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalMoota&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMoota&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalMoota&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalMoota&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMoota&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -88,5 +93,10 @@
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<!-- Bottom Wavy SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishalMoota/VishalMoota/main/wave-bottom.svg" alt="wave bottom" width="100%" />
+</p>
 
+<!-- Quote -->
+<p align="center"><i>“Great things are not done by impulse, but by a series of small things brought together.” – Vincent Van Gogh</i></p>
