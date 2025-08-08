@@ -72,6 +72,7 @@
 - ✅ Full Stack Web Development (MERN)  
 - ✅ Core Java Programming  
 - ✅ MySQL Database
+- ✅ CGPA:9.48
 
 ---
 
