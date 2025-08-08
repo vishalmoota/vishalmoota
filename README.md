@@ -99,5 +99,4 @@
   <img src="https://raw.githubusercontent.com/VishalMoota/VishalMoota/main/wave-bottom.svg" alt="wave bottom" width="100%" />
 </p>
 
-<!-- Quote -->
-<p align="center"><i>“Great things are not done by impulse, but by a series of small things brought together.” – Vincent Van Gogh</i></p>
+
