@@ -65,7 +65,7 @@ I'm currently focusing on:
 ## 🔗 Connect with Me
 
 - 📧 Email: [vishalmoota2005@gmail.com](mailto:vishalmoota2005@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-link]([#](https://www.linkedin.com/in/vishal-moota/))
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/vishal-moota/)
 - 📂 GitHub: [github.com/VishalMoota](https://github.com/VishalMoota)
 
 ---
