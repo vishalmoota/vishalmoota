@@ -1,78 +1,92 @@
-<h1 align="center">Hi there, I'm Vishal Moota 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#6C63FF">Vishal Moota</span></h1>
+<h3 align="center">💻 A passionate Computer Engineering student & Full Stack Developer</h3>
+
+<!-- Typing SVG -->
 <p align="center">
-A passionate Computer Engineering student specializing in Frontend & Full-Stack Development.<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=6C63FF&width=500&lines=Frontend+Developer;Full+Stack+Web+Development;Passionate+Problem+Solver;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/VishalMoota"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vishal-moota/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vishalmoota2005@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/VishalMoota"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishal-moota/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vishalmoota2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=VishalMoota&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="VishalMoota" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **third-year Computer Engineering student** at *Watumull Institute of Technology and Engineering*, passionate about frontend development and problem-solving.
-
-I specialize in **building user-friendly UIs** using HTML, CSS, JavaScript, and React. I'm also familiar with **backend development** using Node.js and Express.js, and have experience with programming languages like **C, C++, Java, and Python**.
-
-💡 Currently focused on:
-- Full-stack web development (MERN stack)
-- Strengthening DSA and OOP concepts
-- Participating in hackathons & engineering challenges
+🎓 I'm a **Third-Year Computer Engineering Student** at *Watumull Institute of Technology and Engineering*  
+🌐 Passionate about building clean, efficient web apps with real-world use  
+🚀 Currently working on: MERN stack, DSA, and solving real-life tech challenges  
+🎯 Career Goal: To become a creative and impactful Full Stack Developer  
 
 ---
 
-## 💡 My Skills
+## 🛠️ My Tech Stack
 
-| Languages | Frameworks & Libraries | Databases & Tools |
-|----------|------------------------|------------------|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
----
-
-## 🚀 My Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Campus Connect - Real-Time Chat App** | Real-time messaging app using Socket.IO, Node.js, Express. Features include dynamic chat rooms, join/leave alerts, and responsive UI. | `Socket.IO`, `Node.js`, `Express.js`, `HTML`, `CSS`, `JS` |
-| **Foodora - Restaurant Website** | A responsive website for a fictional restaurant with menu, table booking, and contact form. | `HTML`, `CSS`, `JavaScript` |
-
----
-
-## 🎓 Education & Accomplishments
-
-**B.E. in Computer Engineering**  
-*Watumull Institute of Technology and Engineering (2023–2027)*  
-
-**Certifications:**  
-- Full Stack Web Development (MERN)  
-- Core Java Programming  
-- MySQL  
-
-**Hackathons & Activities:**  
-- 🛠️ Participant – **Hack to Crack 2.0** (National Level, Vishwaniketan Institute)  
-- 💼 Member – **E-Cell Committee**, Watumull Institute  
-- 🧪 Team Member – **NEC 2025 IIT Bombay Challenge**
-
----
-
-## 📈 GitHub Stats
+### 🌐 Languages & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalMoota&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMoota&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,c,mysql" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 📈 GitHub Stats & Streak
 
-- 📧 Email: [vishalmoota2005@gmail.com](mailto:vishalmoota2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/vishal-moota](https://www.linkedin.com/in/vishal-moota/)  
-- 📂 GitHub: [github.com/VishalMoota](https://github.com/VishalMoota)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalMoota&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalMoota&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalMoota&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎯 **Campus Connect - Chat App** | Real-time group chat app with dynamic room features | `Socket.IO`, `Node.js`, `Express.js`, `HTML`, `CSS`, `JavaScript` |
+| 🍽️ **Foodora - Restaurant Web App** | Restaurant site with menu, booking, billing, OTP, Telegram alerts | `HTML`, `CSS`, `JavaScript`, `Google Apps Script`, `Telegram Bot API`, `Vercel` |
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.E. in Computer Engineering** (2023–2027)  
+  *Watumull Institute of Technology and Engineering*  
+- ✅ Full Stack Web Development (MERN)  
+- ✅ Core Java Programming  
+- ✅ MySQL Database
+
+---
+
+## 🏆 Hackathons & Activities
+
+- 🛠️ Participant – **Hack to Crack 2.0** (Vishwaniketan Institute – National Level)  
+- 💼 Member – **E-Cell Committee**, Watumull Institute  
+- 🧪 Contributor – **NEC 2025 IIT Bombay Challenge**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:vishalmoota2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vishal-moota/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/VishalMoota"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
